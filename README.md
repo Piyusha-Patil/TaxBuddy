@@ -1,11 +1,11 @@
-#TaxBuddy - Smart ITR Filing Chatbot
+# TaxBuddy - Smart ITR Filing Chatbot
 
 Overview
 
 TaxBuddy is an AI-powered chatbot designed to assist users in filing their Income Tax Returns (ITR) efficiently. It provides personalized tax recommendations,
 guides users through the filing process, and offers information on tax-saving investments.
 
-#Features
+# # Features
 
 Interactive Chat Interface: Engaging chatbot UI for seamless interaction.
 
