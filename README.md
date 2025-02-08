@@ -59,6 +59,24 @@ Fork the repository and create a new branch.Make necessary changes and commit.Su
 
 
 ## Screenshots
+![Image](https://github.com/user-attachments/assets/4d6f19f1-bfef-4adf-9f18-07cb28dcd725)
+
+![Image](https://github.com/user-attachments/assets/0656dfc9-fd4f-48c7-8c0d-afafade66a63)
+
+![Image](https://github.com/user-attachments/assets/3cc1759c-12a5-4695-9be6-b7cc24ba4609) 
+
+![Image](https://github.com/user-attachments/assets/2a400bf7-99ea-4ed3-b61f-c769c7c1931a)
+
+![Image](https://github.com/user-attachments/assets/2fa7dee6-fa77-4147-b443-5a77571c752a)
+
+![Image](https://github.com/user-attachments/assets/db654a00-55ec-45d6-82df-a1a4b2f3b072)
+
+![Image](https://github.com/user-attachments/assets/ad9706c5-a248-4c5a-8ba5-0c96dd24b7bd)
+
+![Image](https://github.com/user-attachments/assets/777a8f54-f0b5-44e2-96a9-6625da6e1d4e)
+
+
+
 
 
 
